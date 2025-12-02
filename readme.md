@@ -4,9 +4,6 @@
 
 Built to solve the problem of information overload in financial and legal domains, FinSight allows users to "chat" with dense documents, providing citations for every claim.
 
-![Demo](https://via.placeholder.com/800x400?text=Upload+Your+Streamlit+Screenshot+Here)
-*(Add your screenshot here later)*
-
 ## 🚀 Key Features
 * **Semantic Search:** Uses Vector Embeddings (`all-MiniLM-L6-v2`) to find relevant context, not just keyword matching.
 * **Source Citations:** Every answer cites the specific page number from the PDF to ensure trust and zero hallucinations.
